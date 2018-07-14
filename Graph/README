@@ -1,0 +1,46 @@
+Mayowa Borisade
+mborisad
+CMPS 101
+05/24/18
+
+THE Files being submitted are:
+
+-README
+-Makefile
+-List.c
+-List.h
+-Graph.c
+-Graph.h
+-GraphTest.c
+-FindPath.c
+
+README is the table of contents.
+
+The Makefile compiles, removes, checks, and submits
+the files corresponding to the commands. This program
+should work fine.
+
+List.c this is an ADT that creates a List of Objects
+that can be altered and manipulated with the cursor. 
+
+List.h is the header file for the list ADT
+
+Graph.c creates an array of Lists, stores the
+adjacent vertices in each Node corresponding to the main vertex. 
+Allowing access to each one by special access 
+functions as well as manipulating them with manipulation functions.
+
+Graph.h is the header file for the graph ADT
+
+GraphTest.c this is a client file to test the 
+minute capabilities of the Graph ADT.
+
+FindPath.c this is another Client file for the graph ADT
+that prints out the shortest distances and paths to certain 
+source vertices.
+
+This program prints out the same output as the example
+in the pdf instructions and also passes all the tests.
+
+
+

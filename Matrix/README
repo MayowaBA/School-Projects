@@ -1,0 +1,43 @@
+Mayowa Borisade
+mborisad
+CMPS 101
+05/11/18
+
+THE Files being submitted are:
+
+-README
+-Makefile
+-List.java
+-ListTest.java
+-Matrix.java
+-MatrixTest.java
+-Sparse.java
+
+README is the table of contents.
+
+The Makefile compiles, removes, checks, and submits
+the files corresponding to the commands. This program
+should work fine.
+
+List.java this is an ADT that creates a List of Objects
+that can be altered and manipulated with the cursor. 
+
+ListTest.java this is client file used to test and
+manipulate the capabilities of the List ADT.
+
+Matrix.java creates a matrix in the form of a List
+array of Entries. It contains certain functions
+like multiplication, addition, subtraction, 
+scalar Multiplication and a few more.
+
+MatrixTest.java is the Client file to test Matrix,
+making sure that all its various functionality are working 
+to perfection.
+
+Sparse.java is also another Client file that uses Matrix.
+It showcases its various function by reading in input
+from a file and saving the output in a new file.
+
+This program prints out the same output as the example
+in the pdf instructions and also passes all the tests.
+

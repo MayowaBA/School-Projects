@@ -1,0 +1,39 @@
+Mayowa Borisade
+mborisad
+CMPS 12M
+03/06/18
+
+THE Files being submitted are:
+
+-README
+-Makefile
+-Dictionary.java
+-DuplicateKeyException.java
+-KeyNotFoundException.java
+-DictionaryInterface.java
+-DictionaryClient.java
+
+The Makefile compiles, removes, checks, and submits 
+the files corresponding to the commands.This program
+should work fine.
+
+Dictionary.java makes a key and value dictionary using 
+a Binary Search Tree. It can edit the list by inserting, 
+deleting some or all the elements in each Node. It can 
+also tell you how many pairs are present in the Dictionary.
+
+DuplicateKeyException.java throws the duplicate key exception.
+
+KeyNotFoundException.java throws the key not found exception.
+
+DictionaryInterface.java has all the headers/prototypes for the
+functions used in Dictionary.java
+
+DictionaryClient.java is the code given to test Dictionary.java's 
+capabilities.
+
+README is the table of contents.
+
+This program prints out the same output as the example
+in the pdf instructions.  
+

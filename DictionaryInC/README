@@ -1,0 +1,38 @@
+Mayowa Borisade
+mborisad
+CMPS 12B
+03/13/18
+
+THE Files being submitted are:
+
+-README
+-Makefile
+-Dictionary.c
+-Dictionary.h
+-DictionaryTest.c
+-DictionaryClient.c
+
+The Makefile compiles, removes, checks, and submits
+the files corresponding to the commands.This program
+should work fine.
+
+
+Dictionary.c makes a key and value dictionary using
+a hash table. It can edit the list by inserting, deleting
+some or all the elements in each Node. It can also tell you
+how many Nodes are present in the Dictionary.
+
+DictionaryTest.c test the Dictionary.c program to try to
+break the program in several ways.
+
+Dictionary.h has all the headers/prototypes for the
+functions used in Dictionary.c
+
+DictionaryClient.c is the code given to test Dictionary.c's
+capabilities.
+
+README is the table of contents.
+
+
+This program prints out the same output as the example
+in the pdf instructions.

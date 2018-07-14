@@ -1,0 +1,34 @@
+Mayowa Borisade
+mborisad
+CMPS 101
+04/13/18
+
+THE Files being submitted are:
+
+-README
+-Makefile
+-Lex.java
+-List.java
+-ListClient.java
+
+README is the table of contents.
+
+The Makefile compiles, removes, checks, and submits
+the files corresponding to the commands. This program
+should work fine.
+
+Lex.java is a client file to test the the List ADT 
+and also use it to arrange a String array in 
+Lexicographical order using a method similar to 
+insertion sort.
+
+List.java this is an ADT that creates a List of Objects
+that can be altered and manipulated with the cursor. 
+
+ListClient.java this is client file give to test the 
+minute capabilities of the List ADT.
+
+
+This program prints out the same output as the example
+in the pdf instructions and also passes all the tests.
+
